@@ -1,1 +1,2 @@
 # ReportHub
+Figma del proyecto: https://www.figma.com/design/FHPR2SzA83d3RLB7CK8WOd/Untitled?m=auto&t=amblsYfTgd3q9lDw-6
